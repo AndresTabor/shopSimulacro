@@ -1,0 +1,1 @@
+export const endPoint = 'https://simulacro1.herokuapp.com/products/'
